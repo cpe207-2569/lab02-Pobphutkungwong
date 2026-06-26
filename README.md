@@ -6,4 +6,4 @@
 
 [คลิกเพื่อดูรายละเอียดของแลป](https://o365cmu-my.sharepoint.com/:b:/g/personal/dome_potikanond_cmu_ac_th/EQ6l9WirYQ5GhUBABHB5BiUBQNhFHbzaaUAxFSTsH_72uA?e=ED20AS)
 
-<strong>GITHUB PAGE URL : </strong> https://github.com/cpe207-2569/lab02-Pobphutkungwong#
+<strong>GITHUB PAGE URL : </strong> https://github.com/cpe207-2569/lab02-Pobphutkungwong
